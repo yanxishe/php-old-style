@@ -4,7 +4,7 @@ PHP-Old-Style是一个PHP旧版本函数的兼容层，可以在新的PHP版本�
 
 这样的好处就是可以在尽量不修改或者少修改旧版本代码的情况下，运行在PHP新版本上，并且还采用新版本的新特性。
 
-PHP-Old-Style is a compatibility level of old php versions for running new php versions,for example use mysql_* function in PHP5.5 or later.
+PHP-Old-Style is a compatibility layer of old php functions for running in new php versions,for example use mysql_* function in PHP5.5 or later.
 
 交流社区
 --
