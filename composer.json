@@ -1,5 +1,5 @@
 {
-    "name": "yanxishe.cc/php-old-style",
+    "name": "yanxishe/php-old-style",
     "description": "A compatibility layer of old php functions for running in new php versions,for example use mysql_* function in PHP5.5 or later. Chinese ：php-old-style是一个PHP旧版本函数的兼容层，可以在新的PHP版本中兼容一些被废弃的函数（将旧函数名称用新函数来实现）。比如可以在PHP5.5之后的版本，继续使用mysql_*系列函数。",
     "require": {
         "php": "^5.3"

@@ -1,4 +1,5 @@
-#PHP-Old-Style
+PHP-Old-Style
+=============
 
 PHP-Old-Style是一个PHP旧版本函数的兼容层，可以在新的PHP版本中兼容一些被废弃的函数（将旧函数名称用新函数来实现）。比如可以在PHP5.5之后的版本，继续使用mysql_*系列函数。
 
